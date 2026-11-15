@@ -119,7 +119,3 @@ Analyses labelled *post-hoc* in the manuscript are in `analysis_posthoc()`. The 
 
 - No personal or proprietary information is included.
 - All faults are synthetic perturbations of the public C-MAPSS benchmark.
-
-## License
-
-MIT License.
