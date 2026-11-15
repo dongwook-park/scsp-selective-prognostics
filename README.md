@@ -23,8 +23,8 @@ The threshold is set on a source calibration split. No target labels are used, a
 |---|---|
 | `scsp_phase2.py` | Single script that trains the predictors, runs inference and reproduces every table and figure of the manuscript |
 | `requirements.txt` | Python dependencies |
-| `results/PAPER_TABLES.md` | All manuscript tables as produced by the script from the final run |
-| `results/figures/` | Figs. 1–3 of the manuscript |
+| `PAPER_TABLES.md` | All manuscript tables as produced by the script from the final run |
+| `figures` | Figs. 1–3 of the manuscript |
 
 ## Primary Dataset
 
